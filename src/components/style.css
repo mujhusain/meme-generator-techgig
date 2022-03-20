@@ -1,0 +1,11 @@
+.spareDiv{
+    border: solid rgb(41, 38, 38) 1px;
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display:none;
+}
+form{
+max-width: 300px;
+}
